@@ -6,7 +6,8 @@ On your turn, you may:
 - __Hit:__ Pick up another card
 - __Stand:__ Play the hand (ie. the score) you currently have
 - __Double Down:__ Double your bet and complete your hand by picking up a single card\
-*You may only Double Down if you have 2 cards in your hand*\
+*You may only Double Down if you have 2 cards in your hand.*\
+
 Payout rules are displayed on the table in the game.
 
 __*Motivation*__ - Allows me to demonstrate and test my knowledge of JavaScript, HTML, and CSS by applying the concepts learned through my program at UofA.
