@@ -9,14 +9,6 @@ html {
     --debug: #FF0;
 }
 
-body, .white-on-black {
-    --text: var(--white);
-    --back: var(--black);
-    --error: #F00;
-    --meta: #32a3ff;
-    --debug: #FF0;
-}
-
 body, #themes {
     background-color: #202020;
 }
